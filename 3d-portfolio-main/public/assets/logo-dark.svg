@@ -1,0 +1,8 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Siddharth Singh monogram</title>
+  <desc id="desc">A bold SS logo mark for Siddharth Singh.</desc>
+  <rect width="128" height="128" rx="24" fill="#020617"/>
+  <path d="M37 36H78C86.837 36 94 43.163 94 52C94 60.837 86.837 68 78 68H52C47.582 68 44 71.582 44 76C44 80.418 47.582 84 52 84H93V96H52C40.954 96 32 87.046 32 76C32 64.954 40.954 56 52 56H78C80.209 56 82 54.209 82 52C82 49.791 80.209 48 78 48H37V36Z" fill="white"/>
+  <path d="M35 32H76C88.15 32 98 41.85 98 54H86C86 48.477 81.523 44 76 44H35V32Z" fill="#38BDF8"/>
+  <path d="M51 72H76C80.418 72 84 68.418 84 64C84 59.582 80.418 56 76 56H35V44H76C87.046 44 96 52.954 96 64C96 75.046 87.046 84 76 84H51C48.791 84 47 85.791 47 88C47 90.209 48.791 92 51 92H92V104H51C42.163 104 35 96.837 35 88C35 79.163 42.163 72 51 72Z" fill="#22C55E"/>
+</svg>
